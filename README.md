@@ -57,6 +57,12 @@ python scraper.py
 
 After execution, a `jobs.csv` file will be generated containing all scraped job listings.
 
+## Project Reference
+
+This project was completed as part of the Roadmap.sh Python Projects collection:
+
+https://roadmap.sh/projects/job-listings-scraper
+
 ## Learning Outcomes
 
 - Web scraping fundamentals
